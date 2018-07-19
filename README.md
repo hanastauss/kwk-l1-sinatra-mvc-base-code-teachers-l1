@@ -1,5 +1,3 @@
-
-
 ## Interactive Practice: Model-View-Controller
 
 Open this lesson and follow along during lecture!
